@@ -1,6 +1,6 @@
 一个基于three.js写的3D射门小游戏
 
-文档 https://juejin.im/post/5add8f446fb9a07abf721fbf
+文档 https://juejin.im/post/5ade8ddf6fb9a07a9d6ff5f3
 
 
 按键
